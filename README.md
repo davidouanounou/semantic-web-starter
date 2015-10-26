@@ -49,7 +49,7 @@ Ceci est un article qui parle de Web sémantique.
 ```
 
 Construisons une page type pour un blog ! Ci-contre un schémas récapitulatif :
-![schemas](www.ouanounou.fr/public/schemas.png)
+![schemas](http://www.ouanounou.fr/public/schemas.png)
 
 ```html
 <!DOCTYPE html>
