@@ -5,25 +5,25 @@ Structure d'une page HTML5
 
 Les principales balises introduites en HTML5 sont les suivantes :
 
-#### La balise "section"
+### La balise "section"
 Cette balise permet de définir des zones dans une application, un article ou un document. Cela sera sans doute la balise la plus utilisée dans les documents HTML5.
 
-#### La balise "nav"
+### La balise "nav"
 Cette balise est une "section" particulière qui permet d'identifier les liens de navigation. Bien entendu, tous les liens n'ont pas à être encadrés par cette balise. Toutefois, il faut comprendre que cette balise ne sert pas uniquement pour la navigation principale. Elle peut être utilisée pour l'ensemble des blocs de liens, comme par exemple dans le footer.
 
-#### La balise "aside"
+### La balise "aside"
 L'élément aside représente une "section" également particulière de votre page. Elle permet de définir une zone secondaire adjacent au contenu principale. L'utilisation la plus fréquente est en tant que sidebar.
 
-#### La balise "hgroup"
+### La balise "hgroup"
 C'est sans doute l'élément le moins utilisé aujourd'hui alors que son utilisation est très pratique. Cela permet de regroupé des tags de titres et sous-titres (h1 -> h6). Par example, un titre avec une baseline.
 
-#### La balise "header"
+### La balise "header"
 Cette balise représente une section d'introduction. Elle peut être utilisée dans des sections comme "article" par exemple, ou encore dans une section "nav" pour insérer un logo.
 
-#### La balise "footer"
+### La balise "footer"
 Cet élément va être utilisé pour mettre en valeur un contenu de conclusion. Nous pourrons donc trouver un élément footer pour l'application complète mais aussi à l'intérieur d'un article.
 
-#### La balise "main"
+### La balise "main"
 Cet élément est utilisé pour encadrer le contenu principal comme par exemple le contenu d'un article de blog.
 
 > Il faut garder à l'esprit que tout est lié à la hiérarchisation de vos éléments et plus particulièrement à celle de votre contenu.
